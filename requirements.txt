@@ -3,3 +3,5 @@ audiotsm
 scipy
 numpy
 pytube
+ffmpeg-python
+ffmpeg
